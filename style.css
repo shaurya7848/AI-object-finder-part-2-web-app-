@@ -1,0 +1,42 @@
+
+body {
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+#object_name{
+    margin: 5px;
+    border-radius: 5px;
+    width: 100%;
+    color:white;
+    background-color: black;
+    border: 5px solid red;
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 20px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 7px 7px 7px white;
+    margin-top:50px;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+
+.copy_right_footer
+{
+width:100%;
+bottom:0;
+position:fixed;
+background-color:lightgrey;
+}
